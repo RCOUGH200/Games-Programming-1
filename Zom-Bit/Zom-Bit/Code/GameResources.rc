@@ -1,0 +1,11 @@
+#include "GameResources.h"
+
+// --------------------------------------
+// Icons
+// --------------------------------------
+IDI_MyWindowIcon	ICON	"Images\\ZSprite.ico"
+
+// --------------------------------------
+// Fonts
+// --------------------------------------
+IDF_MyFont			FONT	"Fonts\\8-BIT.TTF"
